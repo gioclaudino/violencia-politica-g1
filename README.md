@@ -22,7 +22,3 @@ Isto é, a maneira como a mídia noticia casos de violência política tende a v
 ## Tecnologias
 - **R**, **R Markdown**  
 - Bibliotecas: `tidyverse`, `tidytext`, `ggplot2`, `stringr`, `readxl`, `conflicted`, etc.  
-
-## Saídas recomendadas
-- **HTML**: facilita leitura e visualização dos gráficos.  
-- **PDF**: ideal para entrega acadêmica.  
